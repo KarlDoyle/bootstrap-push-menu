@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-push-menu",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple push menu using the default Bootstrap 3 navbar",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
