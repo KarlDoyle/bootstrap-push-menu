@@ -1,0 +1,33 @@
+{
+  "name": "bootstrap-push-menu",
+  "version": "0.1.0",
+  "description": "A simple push menu using the default Bootstrap 3 navbar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass --watch scss/bootstrap-push-menu.scss:css/bootstrap-push-menu.css",
+    "build": "sass scss/bootstrap-push-menu.scss css/bootstrap-push-menu.css"
+  },
+  "devDependencies": {
+    "node-sass": "^3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarlDoyle/bootstrap-push-menu.git"
+  },
+  "keywords": [
+    "mobile",
+    "menu",
+    "bootstrap",
+    "pushmenu",
+    "css",
+    "navbar",
+    "slidemenu",
+    "navigation"
+  ],
+  "author": "Karl Doyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KarlDoyle/bootstrap-push-menu/issues"
+  },
+  "homepage": "https://github.com/KarlDoyle/bootstrap-push-menu#readme"
+}
