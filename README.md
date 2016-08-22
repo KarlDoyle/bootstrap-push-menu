@@ -97,8 +97,9 @@ here is a [link](_demo/) to the demo
 
 ## Support / Contact / Suggestions
 
-I am always available to listen to feedback and to answer questions.
-Just create an issue using[Github Issues](https://github.com/KarlDoyle/bootstrap-push-menu/issues) and I will reply as soon as possible.
+I am interested in hearing your feedback and to answer any questions you may have.
+
+Contact me [here](https://github.com/KarlDoyle/bootstrap-push-menu/issues)
 
 Thank You
 
