@@ -94,3 +94,13 @@ Here i am using jQuery, but you can choose any method you prefer.
 
 here is a [link](_demo/) to the demo
 
+
+## Support / Contact / Suggestions
+
+I am always available to listen to feedback and to answer questions.
+Just create an issue using[Github Issues](https://github.com/KarlDoyle/bootstrap-push-menu/issues) and I will reply as soon as possible.
+
+Thank You
+
+
+

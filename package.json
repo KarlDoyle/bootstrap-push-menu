@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-push-menu",
   "version": "0.1.2",
-  "description": "A simple push menu using the default Bootstrap 3 navbar",
+  "description": "A custom push menu that overrides the default Bootstrap 3 mobile navigation menu.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "sass --watch scss/bootstrap-push-menu.scss:css/bootstrap-push-menu.css",
@@ -21,6 +21,12 @@
     "pushmenu",
     "css",
     "navbar",
+    "push",
+    "tablet",
+    "iphone",
+    "ipad",
+    "responsive",
+    "css3",
     "slidemenu",
     "navigation"
   ],
